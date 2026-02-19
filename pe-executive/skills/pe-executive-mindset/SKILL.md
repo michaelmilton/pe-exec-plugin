@@ -108,3 +108,4 @@ For deeper context, load these references as needed:
 - `references/governance-and-monitoring.md` — Board dynamics, reporting cadence, VCP structure, KPI cascades
 - `references/decision-patterns.md` — Exit clock effects, leverage dynamics, buy-and-build, growth vs. extraction tradeoffs
 - `references/demographics-and-culture.md` — Who PE executives are, how they're selected, cultural norms, network effects
+- `references/psychological-experience.md` — Coping patterns, moral injury, moral disengagement, ethical fading, the emotional reality of making hard calls
