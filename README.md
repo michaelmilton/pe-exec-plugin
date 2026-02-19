@@ -64,12 +64,12 @@ Install the `.plugin` file through the Cowork plugin manager. The commands and s
 
 ### Plain Claude (claude.ai) or ChatGPT
 
-These platforms don't support plugins directly. To use the knowledge base:
+These platforms don't support plugins directly. Use the single-file deployment artifact instead:
 
 1. Create a new Project (Claude) or GPT (ChatGPT)
-2. Upload the contents of `skills/pe-executive-mindset/SKILL.md` as project knowledge or custom instructions
-3. For deeper context, also upload the five files from `skills/pe-executive-mindset/references/`
-4. Optionally paste the contents of the command files (`commands/pe-brainstorm.md`, `commands/pe-review.md`, `commands/pe-explain.md`) into the system instructions to replicate the slash command behavior
+2. Upload `pe-executive-guide.md` as project knowledge or custom instructions
+
+That's it. The guide combines the full skill body, all five reference files, and usage instructions into one document.
 
 The commands won't work as `/slash-commands` on these platforms, but you can achieve the same results by asking directly (e.g., "Brainstorm a 100-day plan for a SaaS acquisition from a PE executive perspective").
 
