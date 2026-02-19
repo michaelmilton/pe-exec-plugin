@@ -135,3 +135,30 @@ Predictable escalation:
 3. Third-party consultants arrive to diagnose problems
 4. CFO is typically changed first (CFO tenure averages 2.5 years vs. 5.6 at public companies)
 5. CEO replaced if trajectory doesn't improve (extends hold by 6-12 months)
+
+## Adjusted EBITDA and Quality of Earnings
+
+EBITDA as reported is rarely the number that matters. PE executives think in "adjusted EBITDA" — and the adjustments are where much of the real decision-making lives.
+
+### Common Add-Backs
+
+- One-time restructuring costs
+- Non-recurring legal expenses
+- Management fees paid to the PE sponsor
+- Stock-based compensation
+- "Run-rate" adjustments for cost savings not yet realized (e.g., "we signed this procurement contract last month, so annualize the savings")
+- Integration costs from acquisitions
+- Non-cash charges
+
+### The QoE Filter
+
+Quality of Earnings (QoE) studies are now standard in PE due diligence. Every buyer will hire an accounting firm to scrutinize every adjustment. This creates a discipline that shapes executive behavior throughout the hold:
+
+- Aggressive add-backs can inflate EBITDA by 20-50% above reported levels
+- Buyers increasingly demand that adjusted EBITDA connects to sustainable free cash flow
+- Executives must maintain "clean" EBITDA bridges — documented, defensible adjustments that survive third-party scrutiny
+- The gap between what management believes is "normalized" EBITDA and what a buyer's QoE report shows is a frequent source of deal tension and can kill valuations
+
+### Decision Implication
+
+Every initiative a PE executive evaluates has an implicit QoE dimension: "Will the EBITDA impact from this initiative be recognized as real and sustainable by a buyer's advisors, or will it be adjusted away?" This filters out short-term tricks and favors structural improvements with clear documentation trails.

@@ -114,3 +114,49 @@ A subtle but important distinction in PE executive thinking:
 - MOIC (Multiple on Invested Capital) is absolute — measures total cash returned vs. cash invested
 - Some actions boost IRR without improving MOIC (e.g., dividend recaps that bring cash forward)
 - Executives under IRR-focused sponsors may face pressure for actions that accelerate distributions vs. actions that maximize total value
+
+## Deal-Type Variation
+
+PE executive thinking varies significantly by deal type. A generic model is insufficient.
+
+### Buyout
+
+- Higher leverage, covenant/refinancing sensitivity; exit is central
+- Larger equity upside with strong leaver clauses; meaningful co-invest/rollover
+- Performance metrics: EBITDA/cash flow, MOIC/IRR thresholds; ratchets common
+- Governance: High replacement probability; tight board cadence; speed and measurability rewarded
+
+### Growth
+
+- Often lower leverage than classic buyout; more reinvestment for scaling
+- Equity upside still central; options common; performance hurdles frequent
+- Performance metrics: Revenue/ARR growth and cash efficiency tracked operationally; equity awards still investment-return oriented
+- Governance: Talent-building and integration (platform expansion) emphasized; leadership capability viewed as key lever
+
+### Distressed / Turnaround
+
+- Liquidity constraints; restructuring milestones; high job risk
+- Higher cash/retention component; equity upside more uncertain; frequent resets
+- Performance metrics: Liquidity, covenant compliance, restructuring milestones; exit value contingent
+- Governance: "Survival-first" approach; board may replace quickly if turnaround stalls; incentives often re-cut as facts change
+
+### Carve-Outs
+
+- A growing share of PE deal flow — buying a division from a larger company
+- Unique challenge: must establish stand-alone corporate functions (IT, HR, Finance) that previously ran through the parent
+- Transition Services Agreements (TSAs) define the bridge period; exiting TSAs on time is a critical 100-day priority
+- Often start without independent ERP systems, financial reporting infrastructure, or procurement contracts
+- The executive mindset is "build the plane while flying it" rather than "optimize the existing plane"
+- For employees, carve-outs are among the most disorienting experiences — loss of parent company identity, systems, and support structures
+
+## Motivation Dynamics Across the Deal Lifecycle
+
+KPMG survey data reveals that management motivation is not constant — it spikes and dips predictably:
+
+- **Immediately post-deal**: Motivation spikes as ownership salience is highest — executives have just received equity and can see the direct connection between their actions and personal wealth
+- **Mid-hold (~1-2 years)**: Motivation can plateau or dip, especially if early initiatives have been executed and the next phase feels less urgent
+- **~3 years / exit anticipation**: Motivation spikes again as the anticipated exit approaches and equity crystallization becomes tangible
+- **Early investor cash-out**: If the PE firm exits earlier than expected (e.g., secondary sale), management may view their sweet equity as losing value due to insufficient time for appreciation — this can severely damage motivation and trigger renegotiations
+- **Extended holds (5+ years)**: MIP resets become more likely; executives shift from sprint to marathon thinking and may disengage if equity is no longer clearly "in the money"
+
+This lifecycle pattern matters for initiative timing: launching major transformation during motivational dips requires different leadership approaches than launching during spikes.

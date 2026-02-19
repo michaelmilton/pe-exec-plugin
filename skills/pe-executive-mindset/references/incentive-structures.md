@@ -72,3 +72,18 @@ The primary wealth engine:
 - PE firms charge investors: 2% annual management fee on committed capital + 20% of profits above a hurdle (typically 8%)
 - For a $1B fund: ~$20M/year in fees + potentially $160-200M in carried interest
 - The 20% carry only activates above the hurdle — creating intense pressure to grow portfolio company value, which flows directly to the CEO through their equity structure, KPI targets, and the call they get when monthly numbers disappoint
+- The fund structure itself (10-year fund life, 20-25% annual return targets, carried interest incentives) creates relentless pressure that cascades from LPs to GPs to portfolio company executives
+
+## Case Studies
+
+### Petco: Equity Step-Up Under PE Ownership
+
+During Petco's public phase (1995-1999), CEO Bruce Devine owned ~2% of equity. After the 2000 take-private, his ownership increased sharply to ~10%. When the company undertook an IPO in 2002, his share was reduced (~7%) and continued to fall. This illustrates how PE ownership concentrates executive equity — and how the CEO's internal valuation model shifts from annual bonus impact to expected influence on exit valuation and equity monetization.
+
+### SolarWinds: Equity Plan Design and Reserved Capacity
+
+SolarWinds' 2018 equity incentive plan (post-PE ownership) had 11.5M stock-based awards outstanding and 39.2M shares reserved for future grants. RSUs vested over four years; PSUs vested over three years based on performance targets. The plan included repurchase rights for restricted stock upon employee termination. This illustrates how PE sponsors design plan capacity to support retention, leadership changes, and extended holds without rewriting the entire compensation system.
+
+### Toys R Us: When Leverage Destroys Value
+
+Acquired in 2005 by KKR, Bain Capital, and Vornado for $6.6B with only $1.3B in equity. Annual interest payments of $400-500M consumed 97% of operating income in 2007 — preventing the store reinvestment and e-commerce upgrades needed to compete with Amazon. The company liquidated in 2018, with 33,000 workers receiving no severance while the PE firms collected $464M in fees and interest during ownership. This is the canonical example of how leverage can prevent the very investments needed for survival.

@@ -98,6 +98,54 @@ The burden falls heaviest on those who implement without having decided:
 - **Kenneth Freeman** (Quest Diagnostics chair / KKR partner): After 40+ years, concluded "the tough guy approach makes no sense" — advocated treating employees with consideration during closures
 - **55% of CEOs** experienced mental health challenges in 2024 (24-point jump from prior years); nearly half report loneliness that intensifies these challenges
 
+## Cognitive Dissonance
+
+The gap between self-image and actions creates classic cognitive dissonance:
+
+- "I develop people" vs. "I am terminating them"
+- "I build companies" vs. "I am hollowing out capabilities for a near-term exit"
+- "I care about my team" vs. "I am replacing 30-40% of my direct reports"
+
+Executives resolve this dissonance through the moral disengagement mechanisms above, through reframing (casting themselves as "making the hard calls"), or through compartmentalization. The dissonance is not resolved permanently — it resurfaces with each new round of cuts.
+
+## Emotional Labor
+
+Arlie Hochschild's framework, originally applied to service workers, maps directly onto PE executive life:
+
+- CEOs must project confidence, decisiveness, and calm while experiencing guilt, anxiety, and uncertainty
+- Ben Horowitz's account of "The Struggle" — walking into the office pretending to be calm when you are not — directly illustrates emotional labor at the CEO level
+- The performative demands intensify during layoffs: executives must be "compassionate but firm," deliver bad news without showing too much emotion, and then immediately return to managing the business
+- Brian Chesky's use of the word "love" in his Airbnb layoff letter — later regretted — exposed the fault line between authentic emotion and institutional role
+
+## Sensemaking
+
+Karl Weick's and Julia Balogun's work on how managers construct meaning from morally ambiguous situations:
+
+- Executives in restructurings actively construct narratives that make their actions coherent and justified
+- These narratives are not purely cynical — they are how people maintain agency and purpose under conditions of moral ambiguity
+- Sensemaking is social: executives construct meaning through conversations with peers, operating partners, and board members who share their framework
+- When the shared narrative breaks down (e.g., the company fails despite "doing everything right"), the psychological consequences can be severe
+
+## Administrative Evil
+
+Guy Adams and Danny Balfour's concept: "ordinary people within their normal professional and administrative roles can engage in acts of evil without being aware that they are doing anything wrong."
+
+The PE fund structure creates a pressure cascade that illustrates this:
+
+- 10-year fund life creates time pressure at the GP level
+- 20-25% annual return targets create performance pressure
+- Carried interest incentives concentrate GP wealth in fund returns
+- This cascades to portfolio companies through equity structures, KPI targets, and governance intensity
+- At each level, participants are acting within their professional roles, following established procedures, and pursuing legitimate institutional goals — yet the cumulative effect on workers and communities can be devastating
+
+## Practical Resources and Counter-Evidence
+
+Evidence that challenges default PE assumptions about restructuring:
+
+- Wayne Cascio's *Responsible Restructuring* (2002), based on 18 years of S&P 500 data, found that companies restructuring through downsizing are often not more profitable than those that don't — giving executives a genuine evidence base for alternatives
+- Margolis and Molinsky's research offers specific implementation guidance: have pairs or teams perform layoff tasks together rather than alone; create ample time and space afterward for decompression; provide private environments; recognize that organizations should focus on the well-being of those who perform layoffs, not only those who receive them
+- Hougaard and Carter's "Wise Compassion Flywheel" framework (based on data from thousands of leaders across nearly 100 countries) addresses how to balance compassion with the decisiveness required for hard decisions
+
 ## The Core Insight
 
 Every major scholar in this tradition maintains empathy for individuals within harmful systems. The PE portfolio company executive is best understood not as a villain or victim but as a person recruited into a system that manufactures moral compromise through authority, incentives, language, and routine — then provides just enough psychological armor to keep going.

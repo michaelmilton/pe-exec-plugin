@@ -1,25 +1,30 @@
 # PE Executive Plugin
 
-Reason like a private equity portfolio company executive. This plugin gives Claude deep knowledge of PE incentive structures, governance systems, decision-making patterns, and cultural dynamics — enabling it to brainstorm deliverables, review work products, and explain PE thinking to non-executives.
+A decision-making model for understanding how private equity portfolio company executives think. This plugin is not a comprehensive PE operations manual — it focuses on the mental models, incentive structures, and behavioral patterns that drive executive decisions, so non-executives can understand, anticipate, and work effectively within PE-owned companies.
+
+## What This Plugin Does
+
+- **Brainstorm** deliverables and opportunities through a PE executive's decision framework
+- **Review** work products the way a PE board member would evaluate them
+- **Explain** PE executive behavior and decisions in plain language for non-executives
+
+## What This Plugin Is Not
+
+This is not an operational playbook for running a PE portfolio company. It does not cover technology strategy, sector-specific models, procurement frameworks, ESG compliance, or market dynamics. It covers how PE executives reason — what they prioritize, what they ignore, and why — grounded in the incentive structures, governance systems, and cultural forces that shape their thinking.
 
 ## Components
 
 ### Skill: pe-executive-mindset
 
-Core knowledge base covering:
+Core mental model covering the four interlocking pressures that drive PE executive behavior: the exit clock, equity incentives, leverage constraints, and the replacement threat.
 
-- How PE executives think (incentive-driven decision framework)
-- Value creation levers (revenue growth, margin expansion, buy-and-build, working capital, management upgrade)
-- Governance context (board dynamics, reporting cadence, VCP structure)
-- Key metrics (EBITDA, FCF, MOIC, IRR, Rule of 40)
-- The 100-day playbook
+Reference material in five areas:
 
-Detailed reference material in four areas:
-
-- Incentive structures (compensation mechanics, equity design, hurdle rates)
-- Governance and monitoring (board authority, reporting, KPI cascades)
-- Decision patterns (exit clock, leverage effects, growth vs. extraction)
-- Demographics and culture (selection patterns, network effects, cultural norms)
+- **Incentive structures** — Compensation mechanics, equity design, hurdle rates, case studies (Petco, SolarWinds, Toys R Us)
+- **Governance and monitoring** — Board dynamics, reporting cadence, VCP structure, KPI cascades, adjusted EBITDA and quality of earnings
+- **Decision patterns** — Exit clock, leverage effects, buy-and-build, deal-type variation (buyout, growth, distressed, carve-out), motivation dynamics across the deal lifecycle
+- **Demographics and culture** — Selection patterns, network effects, cultural norms, shareholder primacy origins, psychological selection effects, key academic works
+- **Psychological experience** — Coping patterns, moral injury, moral disengagement, cognitive dissonance, emotional labor, ethical fading, practical resources
 
 ### Commands
 

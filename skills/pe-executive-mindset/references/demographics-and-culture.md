@@ -83,10 +83,21 @@ Who PE portfolio company executives are, how they're selected, and the cultural 
 
 ### Shareholder Primacy as Operating Religion
 
-- The foundational ideology: shareholder value maximization
+- The foundational ideology: shareholder value maximization, whose chief intellectual architect was Harvard Business School's Michael Jensen, who argued that corporate management was "wasting money that should instead be going to shareholders"
+- Multiple legal scholars have debunked any supposed legal duty to maximize shareholder value — Professor David Millon concluded "there is no legal basis for either of these claims" — yet the doctrine persists as cultural scripture within the PE ecosystem
 - Reinforced monthly when the CEO presents EBITDA numbers and quarterly when VCP progress is measured
 - Generates a specific way of seeing: labor as a cost line, organizations as machines to optimize, management's purpose is ensuring capital flows to highest-returning use
 - The language reveals the framework: "right-sizing" (layoffs), "synergies" (eliminating positions), "unlocking value" (extracting cash), "operational improvement" (cost-cutting)
+- Karen Ho's ethnographic concept of "YBGIBG" — "I'll be gone, you'll be gone" — describes the cultural DNA that incentivizes deal volume over deal quality. Executives move between portfolio companies every 3-6 years, building track records measured in financial metrics, with limited accountability for what happens after they leave
+
+### Psychological Selection Effects
+
+- The PE ecosystem selects for specific traits: decisiveness, results orientation, comfort with ambiguity, high urgency, ability to make rapid personnel changes
+- PE CEOs typically replace 30-40% of their direct reports in the first year
+- Babiak, Neumann, and Hare's study of 203 corporate professionals found psychopathic traits at ~4% prevalence among executives — 4x the general population rate
+- Critically, psychopathy correlated positively with charisma and presentation skills but negatively with actual performance — "impression management can obscure or trump subpar performance"
+- Research found dark triad traits in CEOs are "less detrimental in fiercely competitive business environments," which describes the PE world precisely
+- While this research covers executives broadly, the PE selection process — which prizes decisive action, emotional detachment, and comfort with rapid organizational change — maps onto these traits
 
 ## Impact on Workers
 
@@ -98,3 +109,20 @@ Context non-executives need to understand about how PE ownership affects the wor
 - Highest-paying roles experience largest increases in attrition — suggesting targeted restructuring of senior positions
 - Employee sentiment declines across leadership performance, culture, values, business outlook, and compensation
 - Typical sequencing: immediate cost rationalization and headcount reduction, then operational efficiency, then revenue growth initiatives
+- Sector concentrations: The largest concentrations of PE-employed workers are in low-wage sectors — 1.5M in food service, 1.1M in retail, ~1M each in security and healthcare
+- Pension elimination: At least 51 companies eliminated pension plans in bankruptcy at the behest of PE firms since 2001, dumping $1.592B in pension obligations onto the government's Pension Benefit Guaranty Corporation
+- Revelio Labs workforce analysis: PE acquisitions cause significant attrition increases in the year following acquisition, with highest-paying roles experiencing the largest increases — suggesting targeted restructuring of senior positions
+- From 2015 to 2020, 56% of all retail bankruptcies were PE-owned companies
+
+## Key Works and Further Reading
+
+For deeper engagement with the research behind this plugin:
+
+- **Eileen Appelbaum and Rosemary Batt, *Private Equity at Work*** (Russell Sage Foundation, 2014) — The most comprehensive empirical examination of PE's impact on workers and companies
+- **Brendan Ballou, *Plunder*** (PublicAffairs, 2023) — Former DOJ Special Counsel traces PE impact on industries from retail to healthcare
+- **Karen Ho, *Liquidated: An Ethnography of Wall Street*** (Duke University Press, 2009) — Foundational ethnographic study of financial culture, the "culture of smartness," and shareholder value as cultural product
+- **Robert Jackall, *Moral Mazes*** (1988) — Ethnographic study of how corporate morality is shaped by hierarchy
+- **Adam Coffey, *The Private Equity Playbook*** (2019) — A CEO's lived experience running three PE-backed companies
+- **Carrie Sun, *Private Equity: A Memoir*** (2024) — TIME's Must-Read Book of 2024; literary examination of PE culture's effect on individuals
+- **Davis, Haltiwanger, et al.** (American Economic Review, 2014) — Most rigorous quantitative study on PE employment effects
+- **Herkenhoff and Lerner** (Harvard Business School, 2025) — Tracks 2.5M workers across 3,600 PE-acquired firms for wage and employment effects
