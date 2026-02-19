@@ -34,11 +34,46 @@ Reference material in five areas:
 
 - `/pe-explain [decision or concept]` — Explain PE executive decisions and concepts in plain language for non-executives. Connects behavior to structural forces and provides actionable implications.
 
-## Usage
+## Repository Structure
 
-Install the plugin, then use the commands or ask questions that reference PE executive thinking. The skill loads automatically when relevant topics come up.
+- **skills/** — The core knowledge base (SKILL.md and reference files)
+- **commands/** — The three slash commands
+- **docs/** — Archive of the source research that informed the plugin. These files are not loaded by the plugin at runtime; they are preserved here for provenance and future reference.
 
-Examples:
+## Deployment
+
+### Claude Code
+
+Install as a plugin:
+
+```
+claude plugin install /path/to/pe-executive.plugin
+```
+
+Or clone this repo and install from the directory:
+
+```
+claude plugin install /path/to/this/repo
+```
+
+Once installed, the skill loads automatically when relevant topics come up, and the three commands (`/pe-brainstorm`, `/pe-review`, `/pe-explain`) are available.
+
+### Cowork
+
+Install the `.plugin` file through the Cowork plugin manager. The commands and skill will appear in your session automatically.
+
+### Plain Claude (claude.ai) or ChatGPT
+
+These platforms don't support plugins directly. To use the knowledge base:
+
+1. Create a new Project (Claude) or GPT (ChatGPT)
+2. Upload the contents of `skills/pe-executive-mindset/SKILL.md` as project knowledge or custom instructions
+3. For deeper context, also upload the five files from `skills/pe-executive-mindset/references/`
+4. Optionally paste the contents of the command files (`commands/pe-brainstorm.md`, `commands/pe-review.md`, `commands/pe-explain.md`) into the system instructions to replicate the slash command behavior
+
+The commands won't work as `/slash-commands` on these platforms, but you can achieve the same results by asking directly (e.g., "Brainstorm a 100-day plan for a SaaS acquisition from a PE executive perspective").
+
+## Examples
 
 - `/pe-brainstorm 100-day plan for a SaaS acquisition`
 - `/pe-review @board-deck.md`
