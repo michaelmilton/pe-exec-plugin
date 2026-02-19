@@ -1,0 +1,8 @@
+{
+  "name": "pe-executive",
+  "version": "0.1.0",
+  "description": "Reason like a private equity portfolio company executive. Brainstorm deliverables and opportunities, review work products, and translate PE thinking for non-executives.",
+  "author": {
+    "name": "Michael Milton"
+  }
+}
