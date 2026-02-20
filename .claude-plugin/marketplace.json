@@ -1,0 +1,17 @@
+{
+  "name": "pe-plugins",
+  "owner": {
+    "name": "Michael Milton"
+  },
+  "metadata": {
+    "description": "Plugins for understanding private equity executive decision-making"
+  },
+  "plugins": [
+    {
+      "name": "pe-executive",
+      "source": "./",
+      "description": "Reason like a private equity portfolio company executive. Brainstorm deliverables and opportunities, review work products, and translate PE thinking for non-executives.",
+      "version": "0.1.0"
+    }
+  ]
+}

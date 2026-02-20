@@ -44,23 +44,24 @@ Reference material in five areas:
 
 ### Claude Code
 
-Install as a plugin:
+Add the marketplace and install:
 
 ```
-claude plugin install /path/to/pe-executive.plugin
+/plugin marketplace add michaelmilton/pe-exec-plugin
+/plugin install pe-executive@pe-plugins
 ```
 
-Or clone this repo and install from the directory:
+Or load directly for a single session:
 
 ```
-claude plugin install /path/to/this/repo
+claude --plugin-dir /path/to/this/repo
 ```
 
 Once installed, the skill loads automatically when relevant topics come up, and the three commands (`/pe-brainstorm`, `/pe-review`, `/pe-explain`) are available.
 
 ### Cowork
 
-Install the `.plugin` file through the Cowork plugin manager. The commands and skill will appear in your session automatically.
+Install the `.plugin` file from the [latest release](https://github.com/michaelmilton/pe-exec-plugin/releases) through the Cowork plugin manager. The commands and skill will appear in your session automatically.
 
 ### Plain Claude (claude.ai) or ChatGPT
 
